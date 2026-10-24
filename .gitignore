@@ -33,6 +33,12 @@ pr5/index/
 pr5/compare/queries.json
 pr5/compare/findings.md
 
+# Індекс і власний набір питань (ПР6): індекс відтворюється командою
+# python ingest.py
+pr6/index/
+pr6/eval/questions.json
+pr6/eval/findings.md
+
 # Редактори та ОС
 .vscode/
 .idea/
