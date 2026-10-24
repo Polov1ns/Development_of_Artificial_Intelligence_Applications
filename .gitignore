@@ -27,6 +27,12 @@ pr3/compare/findings.md
 pr4/compare/requests.json
 pr4/compare/findings.md
 
+# Збудований індекс і власний набір запитів (ПР5): індекс відтворюється
+# командою python ingest.py
+pr5/index/
+pr5/compare/queries.json
+pr5/compare/findings.md
+
 # Редактори та ОС
 .vscode/
 .idea/
